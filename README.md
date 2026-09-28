@@ -94,9 +94,7 @@ ruff format .
 
 ```text
 gui-calculator/
-├── docs/
-│   └── REFACTORING.md
-├── src/gui_calculator/
+├── src/
 │   ├── __init__.py
 │   ├── __main__.py
 │   ├── state.py
